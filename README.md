@@ -20,5 +20,5 @@ In this project, we will be working on Iris dataset to classify the flowers spec
 * Saving the Model
 
 
-The deployment of the project is given below: 
-[*Vist now*](https://iris-fl0wer-classificati0n.herokuapp.com/)
+The deployment of the project is given below: \
+[*Vist now*](https://iris-fl0wer-classificati0n.herokuapp.com/)🚀
