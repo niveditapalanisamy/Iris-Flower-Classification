@@ -1,4 +1,4 @@
-# ifb
+# Iris Flower Classification
 Its a Machine learning Project based on Iris Flowers Classification were you can predict the Iris species based on their sepal length, sepal width, petal length, petal width as input.
 The Iris Flower species are setosa, versicolor, verginica. Where the predictions would be 0,1,2.
 
